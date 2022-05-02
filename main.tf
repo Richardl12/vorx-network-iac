@@ -17,7 +17,7 @@ module "vpc" {
     Environment = "prod"
     CC = "10502"
     Team = "Devops"
-    OwnerSquad = "Osaka"
+    OwnerSquad = "Numba"
     OwnerSRE = "Valfenda"
   }
 }
